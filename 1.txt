@@ -1,3 +1,7 @@
 1
 2
+<<<<<<< HEAD
 Master
+=======
+Branch
+>>>>>>> bca6d88af2b6463742b547b62cb2d91ad7d798f4
